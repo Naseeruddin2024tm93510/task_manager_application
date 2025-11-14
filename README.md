@@ -5,9 +5,9 @@ This app allows users to register, log in, and manage tasks with full cloud sync
 
 ## Getting Started
 
-This project is a functional Flutter application that uses the Parse Server SDK for backend services such as authentication, task storage, and real-time updates.
+This project is a starting point for a Flutter application.
 
-### Features included in this project:
+A few resources to get you started if this is your first Flutter project:
 
 - 🔐 **User Authentication**
   - Register new users  
